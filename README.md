@@ -15,8 +15,8 @@ You can click the Preview link to take a look at your changes.
 
  -->
 
-<img style="grid-area: 3/3;" height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=Rafael-Benicio&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
 <div style="display: grid; grid-template: repeat(3,33%)  / repeat(3,33%);">
   <img style="grid-area: 1/1;" height="180em" src="https://github-readme-stats-guilherme-cmaras-projects.vercel.app/api/top-langs/?username=Rafael-Benicio&layout=compact&theme=tokyonight"/>
   <img style="grid-area: 2/2;" height="180em" src="https://github-readme-stats-guilherme-cmaras-projects.vercel.app/api?username=Rafael-Benicio&show_icons=true&theme=tokyonight"/>
 </div>
+<img style="grid-area: 3/3;" height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=Rafael-Benicio&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
