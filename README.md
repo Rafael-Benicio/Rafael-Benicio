@@ -20,4 +20,5 @@ You can click the Preview link to take a look at your changes.
   <img style="grid-area: 2/2;" height="180em" src="https://github-readme-stats-guilherme-cmaras-projects.vercel.app/api?username=Rafael-Benicio&show_icons=true&theme=tokyonight"/>
 </div>
 <img style="grid-area: 1/1;" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafael-Benicio&theme=tokyonight&hide_border=false"/>
+<img style="grid-area: 1/1;" height="180em" src="https://github-profile-trophy.vercel.app/?username=Rafael-Benicio&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4"/>
 <!-- <img style="grid-area: 3/3;" height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=Rafael-Benicio&show_icons=true&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph"/> -->
