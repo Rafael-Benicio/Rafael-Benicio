@@ -6,3 +6,5 @@
 
 ## 📈 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Benicio&layout=compact&theme=radical)
+
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafael-Benicio&theme=radical)
